@@ -63,7 +63,7 @@
 			<key>PayloadType</key>
 			<string>com.apple.cellular</string>
 			<key>PayloadUUID</key>
-			<string>5da97f8f-52e6-4df1-9629-c1133d6541af</string>
+			<string>296c9507-2b24-4c86-9de0-7d03c4bbaf65</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -79,7 +79,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>C3DD0241-9ABE-4868-9532-FECA2B196476</string>
+	<string>a8a105af-6dda-4329-be23-44d257b9c776</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 	<key>RemovalDate</key>
