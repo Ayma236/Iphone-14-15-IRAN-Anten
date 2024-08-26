@@ -12,7 +12,7 @@
             <key>PayloadType</key>
             <string>com.apple.cellular</string>
             <key>PayloadUUID</key>
-            <string>79c711e1-9ebe-4d6f-a2b2-5162cb2b5de5</string>
+            <string>a8f404b9-b84a-4619-ae64-f74efb971ab9</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
             <key>APNs</key>
@@ -35,7 +35,7 @@
                 <key>PayloadType</key>
                 <string>com.apple.proxy</string>
                 <key>PayloadUUID</key>
-                <string>4c662740-b8d9-4c67-a5ab-135de6cb432a</string>
+                <string>937661db-30b9-4062-8801-6c2497238c16</string>
                 <key>PayloadVersion</key>
                 <integer>1</integer>
                 <key>HTTPEnable</key>
