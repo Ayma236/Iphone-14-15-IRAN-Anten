@@ -81,7 +81,7 @@
             <key>PayloadType</key>
             <string>com.apple.vpn.managed</string>
             <key>PayloadUUID</key>
-            <string>2b4775f1-8b6e-4817-9041-6ac7dfcf3be5</string>
+            <string>5b14b172-8a6d-4a66-9192-355d1500daaa</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
             <key>UserDefinedName</key>
@@ -118,7 +118,7 @@
             <key>PayloadType</key>
             <string>com.apple.proxy</string>
             <key>PayloadUUID</key>
-            <string>a49cc7af-5f08-498d-8d7f-043fb8ce557b</string>
+            <string>5b14b172-8a6d-4a66-9192-355d1500daaa</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
             <key>HTTPEnable</key>
@@ -156,7 +156,7 @@
             <key>PayloadType</key>
             <string>Configuration</string>
             <key>PayloadUUID</key>
-            <string>50147324-4de6-46e0-8c02-4894df1c6766</string>
+            <string>5b14b172-8a6d-4a66-9192-355d1500daaa</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
             <key>PayloadOrganization</key>
@@ -174,7 +174,7 @@
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>523bec36-fac2-410e-9dee-29b1d5b77599</string>
+    <string>5b14b172-8a6d-4a66-9192-355d1500daaa</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
 </dict>
