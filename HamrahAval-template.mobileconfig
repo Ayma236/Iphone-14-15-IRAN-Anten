@@ -13,7 +13,7 @@
             <key>PayloadType</key>
             <string>com.apple.cellular</string>
             <key>PayloadUUID</key>
-            <string>5b14b172-8a6d-4a66-9192-355d1500daaa</string>
+            <string>7f040645-da0a-403c-9fbe-053cf636af84</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
             <key>APNs</key>
@@ -81,7 +81,7 @@
             <key>PayloadType</key>
             <string>com.apple.vpn.managed</string>
             <key>PayloadUUID</key>
-            <string>5b14b172-8a6d-4a66-9192-355d1500daaa</string>
+            <string>c4a80db8-7de4-4743-8a6b-e310f8f9ecf8</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
             <key>UserDefinedName</key>
@@ -118,7 +118,7 @@
             <key>PayloadType</key>
             <string>com.apple.proxy</string>
             <key>PayloadUUID</key>
-            <string>5b14b172-8a6d-4a66-9192-355d1500daaa</string>
+            <string>61db2f0e-303e-4c39-8e7e-e6f93dcc31a5</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
             <key>HTTPEnable</key>
@@ -156,7 +156,7 @@
             <key>PayloadType</key>
             <string>Configuration</string>
             <key>PayloadUUID</key>
-            <string>5b14b172-8a6d-4a66-9192-355d1500daaa</string>
+            <string>803bdfda-799d-4b0f-a4c0-f0a4a62944aa</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
             <key>PayloadOrganization</key>
@@ -174,7 +174,7 @@
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>5b14b172-8a6d-4a66-9192-355d1500daaa</string>
+    <string>44737b65-589e-4b8e-828c-a0a728d965b7</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
 </dict>
