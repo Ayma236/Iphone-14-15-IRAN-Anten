@@ -13,7 +13,7 @@
             <key>PayloadType</key>
             <string>com.apple.cellular</string>
             <key>PayloadUUID</key>
-            <string>7f040645-da0a-403c-9fbe-053cf636af84</string>
+            <string>57c978ab-075e-48e0-bfb7-12ce76579b4e</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
             <key>APNs</key>
@@ -77,11 +77,11 @@
             <key>PayloadDisplayName</key>
             <string>VPN</string>
             <key>PayloadIdentifier</key>
-            <string>com.apple.vpn.managed.73c1331b-8679-46f1-8eb1-0f3c9832fc62</string>
+            <string>com.apple.vpn.managed.76a7c8d5-efd7-447a-9194-9f7b0ad603be</string>
             <key>PayloadType</key>
             <string>com.apple.vpn.managed</string>
             <key>PayloadUUID</key>
-            <string>c4a80db8-7de4-4743-8a6b-e310f8f9ecf8</string>
+            <string>7ca66ffb-b3d7-4fc7-bca5-be006c551111</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
             <key>UserDefinedName</key>
@@ -99,7 +99,7 @@
                 <key>RemoteAddress</key>
                 <string>vpn.example.com</string>
                 <key>SharedSecret</key>
-                <string>40e64910-bd93-4502-b296-9f846328cd77</string>
+                <string>0885235e-bc42-427a-a062-d74200380d11</string>
                 <key>XAuthEnabled</key>
                 <false/>
                 <key>XAuthName</key>
@@ -114,11 +114,11 @@
             <key>PayloadDisplayName</key>
             <string>Proxy</string>
             <key>PayloadIdentifier</key>
-            <string>com.apple.proxy.10a76de0-cffc-4968-b25f-a05dd2c26fcb</string>
+            <string>com.apple.proxy.9d22c0bc-7fad-4a19-b86f-ed006681b2f7</string>
             <key>PayloadType</key>
             <string>com.apple.proxy</string>
             <key>PayloadUUID</key>
-            <string>61db2f0e-303e-4c39-8e7e-e6f93dcc31a5</string>
+            <string>741adfa2-dadb-484f-9377-1e5e7d58f676</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
             <key>HTTPEnable</key>
@@ -152,11 +152,11 @@
             <key>PayloadDisplayName</key>
             <string>Additional Settings</string>
             <key>PayloadIdentifier</key>
-            <string>com.example.additionalsettings.06f0cf47-e9e2-477f-8313-b0a4c8b832bb</string>
+            <string>com.example.additionalsettings.3355c33d-162a-46f8-bffa-730b8c719996</string>
             <key>PayloadType</key>
             <string>Configuration</string>
             <key>PayloadUUID</key>
-            <string>803bdfda-799d-4b0f-a4c0-f0a4a62944aa</string>
+            <string>80c59b20-63bd-4666-a1a4-2a3021734480</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
             <key>PayloadOrganization</key>
@@ -174,7 +174,7 @@
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>44737b65-589e-4b8e-828c-a0a728d965b7</string>
+    <string>741adfa2-dadb-484f-9377-1e5e7d58f676</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
 </dict>
